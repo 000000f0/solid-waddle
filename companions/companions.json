@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Alex",
+    "title": "I love talking about books and games",
+    "imageUrl": "/eva.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  }
+  
+]
